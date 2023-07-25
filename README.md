@@ -1,4 +1,20 @@
-### Hi there 👋
+# Just another developer
+## In short:
+
+I'm a Italian born to Chinese parents<br>
+Profession: Computer Stuff<br>
+Mission: Open Source<br>
+Vocation: Design<br>
+Passion: DIY<br>
+
+I'm a Operating systems polyglot<br>
+Ask me about:<br>
+Computer Hardware<br>
+Virtualization<br>
+3D printing<br>
+OSes<br>
+
+
 ```
 apiVersion: SimpoLab/v1
 kind:
@@ -16,19 +32,5 @@ metadata:
 spec:
   replicas: 1
   containers:
-    - image: simpolab.com/zyaen:latest
+    image: simpolab.com/zyaen:latest
 ```
-<!--
-**Zyaen/Zyaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
